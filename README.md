@@ -1,2 +1,2 @@
 # SlidingMenuLibrary
-这是一个滑动侧边栏library
+这是一个滑动侧边栏library,主要配合NewsClient项目使用，记得使用它的时候将其工程属性设置为Is Library
